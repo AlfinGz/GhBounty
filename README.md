@@ -127,3 +127,8 @@ cp packages/db/.env.example packages/db/.env.local
 MIT — see [LICENSE](LICENSE).
 
     Tested by @AlfinGz for issue #70
+
+
+    ## Issue #70 - Fix by @AlfinGz
+Fix: Menambahkan validasi input untuk mencegah crash saat data kosong.
+Closes #70
